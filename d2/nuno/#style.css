@@ -1,0 +1,62 @@
+*{ 
+    box-sizing: ;
+
+}
+*{ 
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h1{ 
+    background-color: lightblue;
+    padding: 15px 10px;
+
+}
+.inlineBlock{ 
+    
+    border: solid 1px black;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin-right: 50px;
+    padding: 10px;
+    vertical-align: middle;
+
+}
+.block {
+    display: block;
+ }
+#menu{
+    list-style: none;
+ }
+ #menu li { 
+    display: inline-block;
+    font-size: 18px;
+    background-color: brown;
+    padding: 15px 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+
+ }
+ #container{ 
+    display: none;
+
+
+ }
+ #container{ 
+    whidth: 100px;
+    height: 100px;
+    background-color: pink;
+
+
+ }
+ .box{ 
+
+ }
+ .pink{
+
+  }
+ .green{ 
+    
+ }
+

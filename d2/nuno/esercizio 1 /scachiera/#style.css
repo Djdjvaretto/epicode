@@ -1,0 +1,89 @@
+.container1 div{
+
+}
+.container1 div:{
+
+}
+.dispari div:first-of-type span, {
+
+}
+.pari div {
+    width: 100px;
+    height: ;
+
+}
+.dispari div:nth-child(odd), .pari div:nth-child(even) {
+background-color: #af9069;
+}
+.dispari div:nth-child(even), .pari div:nth-child(odd) {
+background-color: rgb(red, green, blue);
+}
+.dispari div:nth-child(2) span:first-child{
+    position: absolute;
+    top: −15px;
+    left: 140px;
+
+}
+.dispari div:nth-child(3) span:first-child{
+    position: absolute;
+    top: −15px;
+    left: 240px;
+
+}
+.dispari div:nth-child(4) span:first-child{
+    position: absolute;
+    top: −15px;
+    left: 340px;
+
+}
+.dispari div:nth-child(5) span:first-child{
+    position: absolute;
+    top: −15px;
+    left: 440px;
+
+}
+.dispari div:nth-child(6) span:first-child{
+    position: absolute;
+    top: −15px;
+    left: 540px;
+
+}
+.dispari div:nth-child(7) span:first-child{
+    position: absolute;
+    top: −15px;
+    left: 640px;
+
+}
+.dispari div:nth-child(8) span:first-child{
+    position: absolute;
+    top: −15px;
+    left: 740px;
+
+}
+.dispari div:first-of-type span :nth-child(2){
+    position: absolute;
+    top: 65px;
+    left: −20px;
+}
+.dispari div:first-of-type span :nth-child(3){
+    position: absolute;
+    top: 65px;
+    left: −20px;
+}
+.dispari div:first-of-type span :nth-child(4){
+    position: absolute;
+    top: 65px;
+    left: −20px;
+}
+.dispari div:first-of-type span :nth-child(5){
+    position: absolute;
+    top: 65px;
+    left: −20px;
+}
+.dispari div:first-of-type span :nth-child(6){
+    position: absolute;
+    top: 65px;
+    left: −20px;
+}
+
+
